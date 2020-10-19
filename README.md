@@ -2,7 +2,7 @@
 Reacoilの公式ドキュメントの翻訳<br>
 ※リンクはQiita
 
->## 全目次
+>## 目次
 ○前書き
  * [動機](https://qiita.com/Daichi44/items/4236857dac4a3365f434)
  * [コアコンセプト](https://qiita.com/Daichi44/items/f6f8995a73387d104777)
