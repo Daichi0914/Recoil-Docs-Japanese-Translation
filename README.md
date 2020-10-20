@@ -1,4 +1,4 @@
-# Recoil-Docs-Japanese-Translation
+# Recoil-Docs_Japanese-Translation
 Reacoilの公式ドキュメントの翻訳<br>
 ※リンクはQiita
 
