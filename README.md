@@ -9,11 +9,11 @@ Reacoilの公式ドキュメントの翻訳<br>
  * [インストール](https://qiita.com/Daichi44/items/b46d9659c8fcfad2c227)
  * [入門](https://qiita.com/Daichi44/items/3356aaeb7a387b520621)
 
- 
+
 ○基本チュートリアル
- * イントロ
- * Atoms
- * Selectors
+ * [概要](https://qiita.com/Daichi44/items/ee1ced6040d06e33e165)
+ * [Atoms](https://qiita.com/Daichi44/items/d6c2472043b473c9819d)
+ * [Selectors](https://qiita.com/Daichi44/items/af3d6363ac3ce3e7af5a)
 
 ○ガイド
  * 非同期データクエリ
