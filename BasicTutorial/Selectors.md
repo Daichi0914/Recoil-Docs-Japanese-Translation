@@ -1,6 +1,6 @@
 # Selector
 
-**selector**は、**divider state (派生状態)**を表します。divider stateは、与えられたstateを何らかの方法で変更する純粋な関数にstateを渡す出力と考えることができます。
+**selector**は、**derived state (派生状態)**を表します。derived stateは、与えられたstateを何らかの方法で変更する純粋な関数にstateを渡す出力と考えることができます。
 
 派生stateは、他のデータに依存する動的データを構築できるため、強力な概念です。todoリストアプリケーションのコンテキストでは、次のものが派生stateと見なされます。
 
