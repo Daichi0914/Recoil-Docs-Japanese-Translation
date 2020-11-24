@@ -37,13 +37,13 @@ Reacoilの公式ドキュメントの翻訳<br>
    　・　[㉕`useGotoRecoilSnapshot()`](https://qiita.com/Daichi44/items/0bbe5d6643462b55df11) <br>
    •　[㉖`useRecoilCallback()`](https://qiita.com/Daichi44/items/0a276eb144f443a72efd) <br>
    •　**雑録(Misc)** <br>
-   　・　[㉗`useRecoilBridgeAcrossReactRoots()`]() <br>
+   　・　[㉗`useRecoilBridgeAcrossReactRoots()`](https://qiita.com/Daichi44/items/78292a5c30b1b1e4813f) <br>
  * **実用(utils)** <br>
-   •　[㉘`atomFamily()`]() <br>
-   •　[㉙`selectorFamily()`]() <br>
-   •　[㉚`constSelector()`]() <br>
-   •　[㉛`errorSelector()`]() <br>
-   •　[㉜`waitForAll()`]() <br>
-   •　[㉝`waitForAny()`]() <br>
-   •　[㉞`waitForNone()`]() <br>
-   •　[㉟`noWait()`]() <br>
+   •　[㉘`atomFamily()`](https://qiita.com/Daichi44/items/c6046e45ba7447a64aed) <br>
+   •　[㉙`selectorFamily()`](https://qiita.com/Daichi44/items/f552dfda4765596d83d7) <br>
+   •　[㉚`constSelector()`](https://qiita.com/Daichi44/items/7e568ccfb6d2e504de13) <br>
+   •　[㉛`errorSelector()`](https://qiita.com/Daichi44/items/6973c6d140b697b2c97e) <br>
+   •　[㉜`waitForAll()`](https://qiita.com/Daichi44/items/b929ff5376d0672dafa0) <br>
+   •　[㉝`waitForAny()`](https://qiita.com/Daichi44/items/e9720f6ceb7cea57b2ce) <br>
+   •　[㉞`waitForNone()`](https://qiita.com/Daichi44/items/c9bb722022a003d72aa9) <br>
+   •　[㉟`noWait()`](https://qiita.com/Daichi44/items/ca11fcef04d764ef13a8) <br>
